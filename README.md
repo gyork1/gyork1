@@ -10,4 +10,4 @@ Hi I'm Gerald
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gyork1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/gyork1/azure-network-protocols)
-[linkedin]: https://www.linkedin.com/in/gerald-york-0b5763384/
+[linkedin<h2>🤳Connect with me:</h2>]: https://www.linkedin.com/in/gerald-york-0b5763384/
